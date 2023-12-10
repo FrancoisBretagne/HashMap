@@ -1,4 +1,5 @@
 # HashMap
 
-Voici mon projet de création d'une Hashmap, contenant 4 fichier point c. Un pour gérer l'arbre le deuxième pour gérer la file, le troisième pour la Hashmap et le quatrième, le main, pour appeler les fonctions des 3 précédents
-Il y a également un fichier point h contenant toutes mes fonctions ainsi qu'un makefile me permettant de compiler mes fonctions ensembles.
+Here is my project for creating a Hashmap, containing 4 dot c files. One to manage the tree, the second to manage the queue, the third to manage the Hashmap and the fourth, the main, to call the functions of the previous 3.
+There's also a dot h file containing all my functions and a makefile allowing me to compile my functions together.
+You can compile the program with the make command, then ./exx to run the code.
